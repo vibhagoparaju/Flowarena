@@ -1,0 +1,6 @@
+{
+  "name": "FlowArena",
+  "description": "AI-powered stadium intelligence platform for real-time crowd management, smart navigation, and frictionless fan experiences.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI-powered insights", "Real-time crowd monitoring", "Smart navigation"]
+}
